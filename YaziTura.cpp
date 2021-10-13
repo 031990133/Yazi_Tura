@@ -32,7 +32,7 @@ int main()
     //Fonksiyonu farklı atış değerleri için çağırıyorum. 1. parametre atış sayısı 2. parametre ise deneme sayısı başlangıç için 1'dir.
     a1=yaziTura(6, 1);
     a2=yaziTura(6, 1);
-    a3=yaziTura(6, 1);
+    a3=yaziTura(6, 1);//sdssds
     cout << "Ortalama = " << (a1 + a2 + a3) / 3<<"\n";
     b1=yaziTura(30, 1);
     b2=yaziTura(30, 1);
